@@ -6,3 +6,4 @@ Playing around with the architecture for a new idea
 
 # Testsuits
 Jasmine - http://pivotal.github.com/jasmine/
+
